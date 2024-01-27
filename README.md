@@ -1,2 +1,2 @@
 # pyGameTest
-Simple game demo with Python.
+Dinosaur Game demo made with the Pygame library.
